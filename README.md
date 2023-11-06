@@ -38,5 +38,3 @@
 7. Navigate to "**User**" in the dashboard (homepage) to view or edit users. Click on "Impersonate" button under action column to impersonate that user view their unread notifications.
 
 8. Navigate to "**Notifications > Create**" to post a new notification.
-
-You can also create a new project or update an existing project.
