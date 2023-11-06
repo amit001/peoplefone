@@ -1,4 +1,4 @@
-# saffron assignment demo
+# Demo
 
 ## Installation:
 
